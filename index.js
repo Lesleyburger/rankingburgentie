@@ -1,4 +1,3 @@
-const { token } = require('./config.json');
 const Discord = require('discord.js');
 const client = new Discord.Client()
 const Canvacord = require("canvacord");
